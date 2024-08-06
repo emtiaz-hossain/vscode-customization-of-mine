@@ -1,6 +1,8 @@
 
-<--------------------- VS CODE SETTINGS --------------------->                                                                                                                                                                                                                                                
-
+{
+    <--------------------- VS CODE SETTINGS --------------------->  
+}
+                                                                                                                                                                                                                                                                  
 {
     "git.openRepositoryInParentFolders": "never",
     "editor.lineHeight": 2,
@@ -20,8 +22,14 @@
     "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
 }
 
-<--------------------- VS CODE PLUGINS THAT I USE  ---------------------> 
 
+{
+  <--------------------- VS CODE PLUGINS THAT I USE  --------------------->   
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+  
+
+{
+                                        
 1) auto rename tag
 2) auto closing tag
 3) live server
@@ -37,5 +45,23 @@
 13) bracket pair
 14) html and tag level
 15) dom code snippet
+    
+}
+
+{
+  <--------------------- VS CODE THEME THAT I USE  --------------------->                       
+} 
+
+{
+    1) Vim theme
+    2) Monokai pro
+    3) Draculla official
+    4) andromedia
+    5) github theme
+    6) default monkai
+}
+                                        
+  
+  
 
   
