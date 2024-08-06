@@ -1,3 +1,6 @@
+
+<--------------------- VS CODE SETTINGS --------------------->                                                                                                                                                                                                                                                
+
 {
     "git.openRepositoryInParentFolders": "never",
     "editor.lineHeight": 2,
@@ -9,9 +12,30 @@
     "editor.minimap.autohide": true,
     "breadcrumbs.enabled": false,
     "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
-    "workbench.colorTheme": "Monokai Classic",
+    "workbench.colorTheme": "Monokai",
     "workbench.iconTheme": "material-icon-theme",
     "better-comments.highlightPlainText": true,
     "files.autoSave": "afterDelay",
     "liveServer.settings.CustomBrowser": "chrome",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
 }
+
+<--------------------- VS CODE PLUGINS THAT I USE  ---------------------> 
+
+1) auto rename tag
+2) auto closing tag
+3) live server
+4) color highlighter
+5) prettier
+6) Indent rainbow
+7) SVG preview
+8) image preview                                                                                                                              
+9) material icon
+10) Better comments
+11) css intellisense
+12) css navigation
+13) bracket pair
+14) html and tag level
+15) dom code snippet
+
+  
