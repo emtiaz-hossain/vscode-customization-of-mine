@@ -5,7 +5,7 @@
                                                                                                                                                                                                                                                                   
 {
     "git.openRepositoryInParentFolders": "never",
-    "editor.lineHeight": 2,
+    "editor.lineHeight": 2.9,
     "editor.cursorWidth": 5,
     "editor.cursorBlinking": "expand",
     "editor.smoothScrolling": true,
