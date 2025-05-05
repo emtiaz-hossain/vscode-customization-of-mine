@@ -5,7 +5,7 @@
                                                                                                                                                                                                                                                                   
 {
     "git.openRepositoryInParentFolders": "never",
-    "editor.lineHeight": 2.9,
+    "editor.lineHeight": 2,
     "editor.cursorWidth": 5,
     "editor.cursorBlinking": "expand",
     "editor.smoothScrolling": true,
@@ -13,13 +13,15 @@
     "editor.cursorSmoothCaretAnimation": "on",
     "editor.minimap.autohide": true,
     "breadcrumbs.enabled": false,
-    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
-    "workbench.colorTheme": "Monokai",
+    "workbench.colorTheme": "Dracula Theme Soft",
     "workbench.iconTheme": "material-icon-theme",
     "better-comments.highlightPlainText": true,
     "files.autoSave": "afterDelay",
     "liveServer.settings.CustomBrowser": "chrome",
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "editor.fontFamily": "Fira Code ,Consolas, 'Courier New', monospace",
 }
 
 
